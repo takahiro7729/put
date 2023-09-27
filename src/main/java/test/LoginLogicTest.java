@@ -9,7 +9,7 @@ public class LoginLogicTest {
     testExecuteNG(); // ログイン失敗のテスト
   }
   public static void testExecuteOK() {
-    Login login = new Login("minato", "1234");
+    Login login = new Login("hayashi", "1234");
     LoginLogic bo = new LoginLogic();
     boolean result = bo.execute(login);
     if (result) {
@@ -19,7 +19,7 @@ public class LoginLogicTest {
     }
   }
   public static void testExecuteNG() {
-    Login login = new Login("minato", "12345");
+    Login login = new Login("hayashi", "12345");
     LoginLogic bo = new LoginLogic();
     boolean result = bo.execute(login);
     if (!result) {
