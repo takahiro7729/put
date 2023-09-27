@@ -8,7 +8,7 @@
 </head>
 <body>
 <ul>
-<li><a href="LoginServlet"ログイン</a></li>
+<li><a href="LoginServlet">ログイン</a></li>
 <li>ユーザー登録</li>
 </ul>
 </body>
