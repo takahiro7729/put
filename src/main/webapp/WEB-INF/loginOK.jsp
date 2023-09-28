@@ -49,7 +49,7 @@
     <a href="WelcomeServlet">トップへ</a>
 </div>
 <div class="menu">
-    <a href="#" class="menu-item">胸</a>
+    <a href="MuneServlet" class="menu-item">胸</a>
     <a href="#" class="menu-item">腕</a>
     <a href="#" class="menu-item">腹</a>
     <a href="#" class="menu-item">背中</a>
