@@ -4,7 +4,7 @@
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>スッキリ商店</title>
+    <title>おかえりなさい</title>
     <!-- BootstrapのCSSを読み込む -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
     <style>
@@ -23,7 +23,7 @@
 <body>
     <!-- Bootstrapのクラスを使用したログインフォーム -->
     <div class="container login-form">
-        <h2 class="text-center">スッキリ商店</h2>
+        <h2 class="text-center">Training Time!</h2>
         <form action="LoginServlet" method="post">
             <div class="form-group">
                 <label for="userId">ユーザーID:</label>
