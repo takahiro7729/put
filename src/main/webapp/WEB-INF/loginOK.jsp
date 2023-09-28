@@ -46,6 +46,7 @@
 <body>
 <div class="welcome-message">
     ようこそ！<c:out value="${userId}" />さん！！
+    <a href="WelcomeServlet">トップへ</a>
 </div>
 <div class="menu">
     <a href="#" class="menu-item">胸</a>
