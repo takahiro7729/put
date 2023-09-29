@@ -8,15 +8,24 @@
     <!-- BootstrapのCSSを読み込む -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
     <style>
-        /* ここに独自のスタイルを追加できます */
+        /* 画像を背景に設定 */
         body {
-            background-color: #f8f9fa; /* Bootstrapのデフォルトの背景色 */
+            background: url('images/24360309.jpg') no-repeat center center fixed; 
+            background-size: cover;
+            height: 100vh;
+            margin: 0;
+            color: orange; /* フォントの色を白に設定（テキストが読みやすいように） */
         }
         /* ログインフォームのスタイルを変更 */
         .login-form {
             max-width: 300px;
             margin: auto;
             margin-top: 100px;
+        }
+        /* ユーザーIDとパスワードの文字色を青色に変更 */
+        .form-group label,
+        .form-control {
+            color: orange;
         }
     </style>
 </head>
