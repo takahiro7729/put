@@ -89,6 +89,6 @@
         <a href="#" class="menu-item">背中</a>
         <a href="#" class="menu-item">足</a>
     </div>
-    <a href="TopServlet" class="top-button">トップへ</a>
+    <a href="WelcomeServlet" class="top-button">トップへ</a>
 </body>
 </html>
