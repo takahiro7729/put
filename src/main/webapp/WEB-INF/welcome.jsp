@@ -9,7 +9,7 @@
         body {
             margin: 0;
             padding: 0;
-            background: url('images/20220802-0D0A5101-scaled.jpg') center/cover no-repeat; /* 背景画像のパスを指定してください */
+            background: url('images/963199_l.jpg') center/cover no-repeat; /* 背景画像のパスを指定してください */
             display: flex;
             align-items: center;
             justify-content: center;

@@ -10,11 +10,11 @@
     <style>
         /* 画像を背景に設定 */
         body {
-            background: url('images/24360309.jpg') no-repeat center center fixed; 
+            background: url('27282534_s.jpg') no-repeat center center fixed; 
             background-size: cover;
             height: 100vh;
             margin: 0;
-            color: orange; /* フォントの色を白に設定（テキストが読みやすいように） */
+           color: black; /* 修正: テキストの色をブラックに変更 */
         }
         /* ログインフォームのスタイルを変更 */
         .login-form {
@@ -25,7 +25,7 @@
         /* ユーザーIDとパスワードの文字色を青色に変更 */
         .form-group label,
         .form-control {
-            color: orange;
+            color: black; /* 修正: テキストの色をブラックに変更 */
         }
     </style>
 </head>
