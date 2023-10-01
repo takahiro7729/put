@@ -60,24 +60,24 @@
         <p class="text-center">効果的な胸筋のトレーニングで理想の体型を手に入れよう！</p>
         <div class="row">
             <div class="col-md-6 text-center">
-                <img src="images/chest_workout_1.jpg" alt="Chest Workout 1" class="custom-image">
+                <img src="images/istockphoto-1028273740-1024x1024.jpg" alt="Chest Workout 1" class="custom-image">
                 <h3>ベンチプレス</h3>
                 <p>ベンチプレスは胸筋全体を鍛える効果的なエクササイズです。</p>
             </div>
             <div class="col-md-6 text-center">
-                <img src="images/chest_workout_2.jpg" alt="Chest Workout 2" class="custom-image">
+                <img src="images/woman-2260736_1280.jpg" alt="Chest Workout 2" class="custom-image">
                 <h3>ダンベルフライ</h3>
                 <p>ダンベルフライは胸の外側を重点的に鍛えます。</p>
             </div>
         </div>
         <div class="row">
             <div class="col-md-6 text-center">
-                <img src="images/chest_workout_3.jpg" alt="Chest Workout 3" class="custom-image">
+                <img src="images/man-2264825_1280.jpg" alt="Chest Workout 3" class="custom-image">
                 <h3>プッシュアップ</h3>
                 <p>プッシュアップは体重を使った効果的な胸筋トレーニングです。</p>
             </div>
             <div class="col-md-6 text-center">
-                <img src="images/chest_workout_4.jpg" alt="Chest Workout 4" class="custom-image">
+                <img src="images/sports-2262083_1280.jpg" alt="Chest Workout 4" class="custom-image">
                 <h3>ケーブルクロスオーバー</h3>
                 <p>ケーブルクロスオーバーで胸筋の収縮感を高めましょう。</p>
             </div>

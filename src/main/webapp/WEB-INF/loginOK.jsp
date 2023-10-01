@@ -35,7 +35,7 @@
         .welcome-message {
             font-size: 20px;
             margin-top: 10px;
-            color: #fff; /* 修正: テキストの色を白に変更 */
+            color: #fff; /* テキストの色を白に変更 */
         }
 
         .menu {
@@ -49,12 +49,13 @@
             padding: 15px;
             border: none;
             border-radius: 8px;
-            background-color: #808080; /* 修正: 背景色をグレーに変更 */
+            background-color: #808080; /* 背景色をグレーに変更 */
             text-decoration: none;
             color: #fff;
             font-size: 18px;
             text-align: center;
             transition: background-color 0.3s ease;
+            cursor: pointer; /* カーソルをポインタに変更 */
         }
 
         .menu-item:hover {
@@ -71,6 +72,7 @@
             border-radius: 5px;
             font-size: 18px;
             transition: background-color 0.3s ease;
+            cursor: pointer; /* カーソルをポインタに変更 */
         }
 
         .top-message:hover {
