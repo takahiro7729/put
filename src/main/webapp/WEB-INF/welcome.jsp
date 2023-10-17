@@ -43,7 +43,7 @@
 
 <div class="navbar">
     <a href="LoginServlet">ログイン</a>
-    <a href="#">ユーザー登録</a>
+    <a href="#"></a>
 </div>
 
 <!-- ここにページの本文を追加 -->

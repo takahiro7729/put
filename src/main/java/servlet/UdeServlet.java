@@ -9,14 +9,13 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-@WebServlet("/MuneServlet")
-public class MuneServlet extends HttpServlet {
+@WebServlet("/UdeServlet")
+public class UdeServlet extends HttpServlet {
   private static final long serialVersionUID = 1L;
 
   protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
-    RequestDispatcher dispatcher = request.getRequestDispatcher(
-        "WEB-INF/mune.jsp");
+    System.out.println("UdeServlet called");  // デバッグステートメントを追加
+    RequestDispatcher dispatcher = request.getRequestDispatcher("WEB-INF/ude.jsp");
     dispatcher.forward(request, response);
-    }
-  
+  }
 }

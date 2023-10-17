@@ -88,7 +88,7 @@
     
     <div class="menu">
         <a href="MuneServlet" class="menu-item">胸</a>
-        <a href="#" class="menu-item">腕</a>
+        <a href="UdeServlet" class="menu-item">腕</a>
         <a href="#" class="menu-item">腹</a>
         <a href="#" class="menu-item">背中</a>
         <a href="#" class="menu-item">足</a>
